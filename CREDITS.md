@@ -1,12 +1,11 @@
 # N4 学习网站：资料来源与授权
 
-JLPT 官方说明：2010 年改版后，考试内容规格不再包含逐项的词汇、汉字、语法清单。因此本网站的等级归类属于学习参考，不代表官方完整清单。
+JLPT 官方说明：2010 年改版后，考试内容规格不再包含逐项的词汇、汉字、语法清单。因此本站的等级归类属于学习参考，不代表官方完整清单。
 
 ## 资料来源
 
-- OpenJLPT：https://github.com/evanclan/OpenJLPT
-- 词汇、语法、例句数据按 CC BY-SA 4.0 授权；等级参考社区词表。本站通过 OpenJLPT 公布的 CDN 加载数据，并另行编写中文教学总结、分类和交互界面。
-- 部分词汇例句来自 Tatoeba。
-- 中文释义由在线机器翻译服务按需生成，可能有误，适合作为辅助理解。
+- [OpenJLPT](https://github.com/evanclan/OpenJLPT)：词汇、语法与部分例句数据按 CC BY-SA 4.0 授权；等级归类属于社区参考。部分例句来自 Tatoeba。
+- [Japanese-Chinese-thesaurus](https://github.com/lxl66566/Japanese-Chinese-thesaurus)：固定日中词典数据，用于中文词义检索。该项目说明 final.json 以 Unlicense 发布；其合并来源各自可能有不同倾向与授权，请查阅上游项目的 source.7z 和具体来源说明。
+- 本站中文教学总结、场景分类及交互界面为本站编写。网站不调用在线机器翻译服务；固定词典数据首次载入时需要联网，并由浏览器缓存。
 
-本站的教学总结与界面可按 CC BY-SA 4.0 分享。完整原始数据及每字段的上游来源请见 OpenJLPT 的 LICENSE 与 NOTICE。
+本站的 OpenJLPT 衍生资料依 CC BY-SA 4.0 分享。完整原始数据及字段来源请查阅 OpenJLPT 的 LICENSE 与 NOTICE。
